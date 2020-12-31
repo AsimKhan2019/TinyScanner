@@ -1,0 +1,10 @@
+C:\Users\mahmu\source\repos\ScannerGUI\ScannerGUI\bin\Debug\ScannerGUI.exe.config
+C:\Users\mahmu\source\repos\ScannerGUI\ScannerGUI\bin\Debug\ScannerGUI.exe
+C:\Users\mahmu\source\repos\ScannerGUI\ScannerGUI\bin\Debug\ScannerGUI.pdb
+C:\Users\mahmu\source\repos\ScannerGUI\ScannerGUI\obj\Debug\ScannerGUI.csprojAssemblyReference.cache
+C:\Users\mahmu\source\repos\ScannerGUI\ScannerGUI\obj\Debug\ScannerGUI.Form1.resources
+C:\Users\mahmu\source\repos\ScannerGUI\ScannerGUI\obj\Debug\ScannerGUI.Properties.Resources.resources
+C:\Users\mahmu\source\repos\ScannerGUI\ScannerGUI\obj\Debug\ScannerGUI.csproj.GenerateResource.cache
+C:\Users\mahmu\source\repos\ScannerGUI\ScannerGUI\obj\Debug\ScannerGUI.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\source\repos\ScannerGUI\ScannerGUI\obj\Debug\ScannerGUI.exe
+C:\Users\mahmu\source\repos\ScannerGUI\ScannerGUI\obj\Debug\ScannerGUI.pdb
